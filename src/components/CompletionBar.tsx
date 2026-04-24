@@ -1,7 +1,3 @@
-// Has three components:
-// - The name of the person
-// - The completion percentage of the task
-// - The Lumon logo
 export function CompletionBar({
   name,
   percentage,
@@ -32,9 +28,6 @@ export function CompletionBar({
           </div>
           <div className="relative text-black">{percentage}% Complete</div>
         </div>
-        {/* <div>
-          <img src={logo} alt="Lumon logo" />
-        </div> */}
       </div>
     </div>
   );
