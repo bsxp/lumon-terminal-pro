@@ -4,7 +4,7 @@ A browser recreation of the Lumon Industries terminal from Apple TV's *Severance
 
 ![Lumon Terminal Pro](./lumon-cover.gif)
 
-I wrote about the CSS tricks that go into it — [read the walkthrough on chrisporter.org](https://chrisporter.org/projects/lumon).
+I wrote about the CSS tricks that go into it — [read the walkthrough on my blog](https://chrisporter.org/projects/lumon).
 
 ## Running it
 
